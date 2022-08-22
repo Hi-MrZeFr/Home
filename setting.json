@@ -1,0 +1,24 @@
+{
+    "title": "MrZeFr|引导站",
+    "description": "MrZeFr|引导站",
+    "keywords": "MrZeFr,个人主页",
+    "author": "MrZeFr",
+    "logo_img": "https://cdn.mrzefr.cn/Doraemon.ico",
+    "logo_text_1": "MrZeFr",
+    "logo_text_2": "top",
+    "github": "Hi-MrZeFr",
+    "qq": "408853656",
+    "email": "mrzefr@mrzefr.cn",
+    "bilibili": "1766684836",
+    "link_1": [
+        "https://blog.mrzefr.cn/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://pan.mrzefr.cn/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "Copyright_text": "MrZeFr"
+}
